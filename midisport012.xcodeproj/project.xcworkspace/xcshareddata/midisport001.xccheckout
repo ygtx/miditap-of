@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>613E9A70-8ECC-46F7-A198-52CDFE882A91</string>
+	<key>IDESourceControlProjectName</key>
+	<string>midisport001</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8AA938B-C85E-4CB9-AD17-80C107081798</key>
+		<string>https://github.com/Geistyp/ofxGif.git</string>
+		<key>EEA847D6-C1CF-4875-8EAB-000BB7862BC0</key>
+		<string>https://bitbucket.org/yagitatsuya/midisport001.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>midisport001.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8AA938B-C85E-4CB9-AD17-80C107081798</key>
+		<string>../../../../../addons/ofxGif</string>
+		<key>EEA847D6-C1CF-4875-8EAB-000BB7862BC0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/yagitatsuya/midisport001.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EEA847D6-C1CF-4875-8EAB-000BB7862BC0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EEA847D6-C1CF-4875-8EAB-000BB7862BC0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>00001.midisport</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8AA938B-C85E-4CB9-AD17-80C107081798</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxGif</string>
+		</dict>
+	</array>
+</dict>
+</plist>
